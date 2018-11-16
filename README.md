@@ -1,2 +1,2 @@
-# cameratest
-Testing camera stream to canvas
+# camera-app
+Super awesome camera web app built with HTML, CSS, and JS.
